@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\bin\Debug\net6.0\C36FactoryPatternDemo.exe
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\bin\Debug\net6.0\C36FactoryPatternDemo.deps.json
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\bin\Debug\net6.0\C36FactoryPatternDemo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\bin\Debug\net6.0\C36FactoryPatternDemo.dll
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\bin\Debug\net6.0\C36FactoryPatternDemo.pdb
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.dll
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\refint\C36FactoryPatternDemo.dll
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.pdb
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\C36FactoryPatternDemo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\C36FactoryPatternDemo\C36FactoryPatternDemo\obj\Debug\net6.0\ref\C36FactoryPatternDemo.dll
